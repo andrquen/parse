@@ -1,0 +1,11 @@
+asyncio
+aiohttp
+beautifulsoup4
+pandas
+nltk
+gensim
+scikit-learn
+matplotlib
+wordcloud
+natasha
+setuptools
